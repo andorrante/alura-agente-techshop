@@ -32,8 +32,7 @@ Proyecto final del programa Oracle Next Education + Alura Latam. Un agente que r
 ---
 
 ## 📸 Captura
-
-![Agente funcionando](Captura de pantalla prueba colab.png)
+![Agente funcionando](screenshot.png)
 
 ---
 
